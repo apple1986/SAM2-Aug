@@ -51,7 +51,6 @@ The model was trained and evaluated on the following datasets:
   - 37 patients with brain tumors  
   - Mixed imaging sequences  
 
-> *Simulation scans were excluded from all datasets.*
 
 ---
 
